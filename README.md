@@ -1,0 +1,2 @@
+# rust-template
+Rust start
